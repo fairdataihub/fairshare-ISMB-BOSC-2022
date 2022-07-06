@@ -1,1 +1,1 @@
-# fairshare-ISMB-BOSC-2022
+# Repository of the FAIRshare material for ISMB-BOSC 2022
