@@ -31,11 +31,18 @@ The abstract of our poster and presentation is copied here:
 
 ## References
 
-We list here references relevant to our poster and talk:
+We list here major references relevant to our poster and talk:
 
+| Description                                         | Link                                                              |
+| --------------------------------------------------  | ----------------------------------------------------------------- |
+| Repository of FAIRshare                             | [https://github.com/fairdataihub/FAIRshare](https://github.com/fairdataihub/FAIRshare)  |
+| Repository of the FAIR-BioRS guidelines             | [https://github.com/fairdataihub/FAIR-BioRS-guidelines](https://github.com/fairdataihub/FAIR-BioRS-guidelines) |
+| Pre-print on the FAIR-BioRS guidelines and FAIRshare  | [https://doi.org/10.1101/2022.04.18.488694](https://doi.org/10.1101/2022.04.18.488694) |
+| Publication on the FAIR4RS Principles  | [https://doi.org/10.15497/RDA00065](https://doi.org/10.15497/RDA00065) |
+| Publication on the FAIR Principles  | [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18) |
 
 ## License
-The material in the repository is licensed under a
+The material in this repository is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
