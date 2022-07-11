@@ -43,7 +43,7 @@ The material in the repository is licensed under a
 ## Contact us
 For submitting feedback or getting in touch either:
 - Use the [GitHub issues](https://github.com/fairdataihub/FAIR-BioRS-data/issues) 
-- Use this contact form.
+- Use [this contact form](https://tally.so/r/wLZJz2)
 - Email us: bpatel@fairdataihub.org
 
 
